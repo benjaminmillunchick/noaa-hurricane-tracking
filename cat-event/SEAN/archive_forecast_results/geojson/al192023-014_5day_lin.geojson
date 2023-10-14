@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-43.4, 15.4], [-44.2, 16.1], [-45.4, 16.9], [-47.0, 17.5], [-48.7, 17.9], [-50.6, 18.1]]}, "properties": {"STORMNAME": "Sean", "STORMTYPE": "TS", "ADVDATE": "500 AM AST Sat Oct 14 2023", "ADVISNUM": "14", "STORMNUM": 19, "FCSTPRD": 120, "BASIN": "AL"}}]}
