@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-53.3, 32.4], [-50.4, 31.6], [-47.6, 30.1], [-46.7, 28.5], [-46.6, 27.2], [-48.0, 26.1]]}, "properties": {"STORMNAME": "Tammy", "STORMTYPE": "PTC", "ADVDATE": "500 AM AST Sun Oct 29 2023", "ADVISNUM": "40", "STORMNUM": 20, "FCSTPRD": 120, "BASIN": "AL"}}]}
