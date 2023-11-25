@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-123.0, 14.6], [-122.9, 15.0], [-122.8, 15.2], [-123.0, 15.3], [-123.6, 15.5], [-124.6, 16.1]]}, "properties": {"STORMNAME": "Ramon", "STORMTYPE": "TS", "ADVDATE": "100 AM PST Sat Nov 25 2023", "ADVISNUM": "8", "STORMNUM": 20, "FCSTPRD": 120, "BASIN": "EP"}}]}
